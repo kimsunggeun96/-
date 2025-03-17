@@ -1,0 +1,28 @@
+{
+  "name": "kimyacha",
+  "version": "1.0.0",
+  "description": "project of kimyacha",
+  "main": "index.js",
+  "scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start"
+}
+,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimsunggeun96/kimyacha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimsunggeun96/kimyacha/issues"
+  },
+  "homepage": "https://github.com/kimsunggeun96/kimyacha#readme",
+  "dependencies": {
+    "next": "^15.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
